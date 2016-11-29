@@ -24,7 +24,7 @@ void Setup()
 }
 void Draw()
 {
-    system("cls"); //system("clear");
+    system("cls"); 
     for (int i = 0; i < width+2; i++)
         cout << "#";
     cout << endl;
